@@ -2,7 +2,7 @@
 import Image from "next/image";
 import { useEffect, useState } from "react";
 
-const roles = ["Android Developer", "Kotlin Expert", "Mobile Engineer", "SDK Builder"];
+const roles = ["Android Developer", "Kotlin Expert", "Mobile Engineer", "SDK Builder", "Flutter Developer"];
 
 export default function Hero() {
   const [roleIdx, setRoleIdx] = useState(0);
