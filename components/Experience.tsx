@@ -12,7 +12,7 @@ type Job = {
 const experiences: Job[] = [
   {
     period: "March 2026 – Present",
-    role: "Software Engineer (Android)",
+    role: "Executive, Android Developer",
     company: "Navana Pharmaceuticals PLC",
     companyUrl: "https://navanapharma.com/",
     location: "Dhaka, Bangladesh",
